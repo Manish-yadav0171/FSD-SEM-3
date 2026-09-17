@@ -8,17 +8,6 @@ Full Stack Development (FSD) in Semester 3 at university.
 ### 1. BASICS OF JS
 Basic JavaScript concepts covered during ongoing classes.
 
-Topics include:
-- Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Arrays
-- Objects
-- Other JavaScript fundamentals
-
 ### 2. CALCULATOR
 A basic calculator program created as part of class practice / assessment.
 
@@ -35,7 +24,7 @@ Topics include:
 ## 🎯 Purpose
 
 This repository is used to:
-- Keep track of my university class work
+- Keep track of my College ongoing work 
 - Practice JavaScript and Node.js
 - Store assignments and class exercises
 - Track my progress while learning Full Stack Development
